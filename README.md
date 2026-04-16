@@ -63,8 +63,4 @@ swift test
 3. The app provides both a main window and a menu bar control panel.  
    应用同时提供主窗口和菜单栏快捷控制。
 
-## GitHub-Friendly Highlights / 适合放 GitHub 的点
 
-- Source code and app bundle can both be generated locally / 源码与 `.app` 都可本地生成
-- Clean architecture that is easy to extend / 分层清晰，便于继续扩展
-- Includes a packaging script for demos and releases / 已包含打包脚本，方便演示和发布
